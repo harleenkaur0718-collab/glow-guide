@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/pld-home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/old-home",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}

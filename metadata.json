@@ -1,0 +1,6 @@
+{
+  "name": "Beauty & Skincare - Clean Botanical Formulas",
+  "description": "Dermatologist-formulated clean skincare routines, barrier repair essentials, personalized skin diagnosis quiz, and transparent botanical ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+# Allow all web crawlers and search engine spiders
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://beauty-and-skincare-83ew16cx4-harleen1.vercel.app/sitemap.xml
+Sitemap: https://beauty-and-skincare-83ew16cx4-harleen1.vercel.app/sitemap.xxml
